@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<manifest>
+
+  <remote name="origin"
+          fetch="https://chromium.googlesource.com" />
+
+  <default revision="master"
+           remote="origin"
+           sync-j="4"/>
+
+  <!-- ios sender projects -->
+  <project name="android_tools"/>
+  <project name="angle"/>
+  <project name="angle/angle"/>
+
+</manifest>
