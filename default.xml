@@ -4,6 +4,12 @@
   <remote name="origin"
           fetch="https://chromium.googlesource.com" />
 
+  <remote name="boringssl"
+          fetch="https://boringssl.googlesource.com" />
+
+  <remote name="pdfium"
+          fetch="https://pdfium.googlesource.com" />
+
   <default revision="master"
            remote="origin"
            sync-j="1"/>
@@ -660,5 +666,8 @@
   <project name="webm/webmquicktime" />
   <project name="webm/webm-tools" />
   <project name="webm/webp-wic-codec" />
+
+  <project name="boringssl" remote="boringssl" />
+  <project name="pdfium" remote="pdfium" />
 
 </manifest>
