@@ -536,12 +536,6 @@
   <project name="external/w3c/csswg-test" />
   <project name="external/w3c/web-performance" />
   <project name="external/w3c/web-platform-tests" />
-  <project name="external/Webkit" />
-  <project name="external/WebKit_LayoutTests" />
-  <project name="external/WebKit_submodule" />
-  <project name="external/WebKit_trimmed" />
-  <project name="external/WebKit/Source/Platform/chromium/public" />
-  <project name="external/WebKit/Source/WebKit/chromium/public" />
   <project name="external/web-page-replay" />
   <project name="external/webrtc" />
   <project name="external/webrtc/deps/third_party/junit" />
