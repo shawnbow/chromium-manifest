@@ -414,8 +414,6 @@
   <project name="crashpad" />
   <project name="crashpad/crashpad" />
   <project name="cros" />
-  <project name="dart/dartium/blink" />
-  <project name="dart/dartium/src" />
   <project name="deps/mesa" />
   <project name="experimental/chromium/blink" />
   <project name="experimental/chromium/src" />
