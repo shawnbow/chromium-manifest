@@ -423,6 +423,8 @@
   <project name="experimental/external/gyp" />
   <project name="experimental/external/v8" />
   <project name="external/accessibility-developer-tools" />
+  <project name="external/android_protobuf" />
+  <project name="external/android_webview_glue" />
   <project name="external/angle" />
   <project name="external/angleproject" />
   <project name="external/angleproject/dx11proto" />
@@ -468,6 +470,7 @@
   <project name="external/jsoncpp/jsoncpp/include" />
   <project name="external/jsoncpp/jsoncpp/src/lib_json" />
   <project name="external/jsr-305" />
+  <project name="external/junit" />
   <project name="external/khronosgroup/webgl" />
   <project name="external/leveldatabase" />
   <project name="external/leveldb" />
@@ -506,6 +509,7 @@
   <project name="external/pywebsocket/src" />
   <project name="external/repo" />
   <project name="external/rlz" />
+  <project name="external/robolectric" />
   <project name="external/sawbuck" />
   <project name="external/sawbuck/syzygy/binaries" />
   <project name="external/sctp-refimpl" />
@@ -571,6 +575,7 @@
   <project name="infra/third_party/coverage" />
   <project name="infra/third_party/endpoints-proto-datastore" />
   <project name="infra/third_party/httplib2" />
+  <project name="infra/third_party/mock" />
   <project name="infra/third_party/numpy" />
   <project name="infra/third_party/oauth2client" />
   <project name="infra/third_party/pastedeploy" />
