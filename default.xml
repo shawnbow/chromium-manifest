@@ -559,6 +559,7 @@
   <project name="git/cros" />
   <project name="infra" />
   <project name="infra/infra" />
+  <project name="infra/rietveld" />
   <project name="infra/sandbox" />
   <project name="infra/swarming" />
   <project name="infra/testing_support" />
